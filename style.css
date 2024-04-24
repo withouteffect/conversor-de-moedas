@@ -8,14 +8,14 @@
     h1 {
         text-align: center;
         color: #FFFFFF;
-        font-size: 45px;
+        font-size: 43px;
         font-weight: 800;
-        margin-top: 20px;
+        margin-top: 10px;
 
     }
 
     .logo-currency {
-        width: 150px;
+        width: 120px;
         display: block;
         margin: 10px auto;
     }
@@ -27,7 +27,7 @@
     }
 
     main {
-        width: 375px;
+        width: 400px;
         background-color: #F4F4F4;
         border-radius: 20px;
         margin: 10px auto;
